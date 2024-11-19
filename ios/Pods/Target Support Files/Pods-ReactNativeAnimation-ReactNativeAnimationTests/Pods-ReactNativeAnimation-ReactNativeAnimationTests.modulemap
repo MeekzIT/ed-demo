@@ -1,0 +1,6 @@
+module Pods_ReactNativeAnimation_ReactNativeAnimationTests {
+  umbrella header "Pods-ReactNativeAnimation-ReactNativeAnimationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
